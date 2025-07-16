@@ -1,0 +1,17 @@
+langchain_google_community
+langchain-community
+langchain-tavily
+langchain-google-community
+fastapi
+uvicorn
+Flask
+requests
+langchain
+pydantic
+google-search-results
+markdown
+langchain-groq 
+langgraph 
+python-dotenv
+
+-e .
